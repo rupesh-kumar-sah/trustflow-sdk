@@ -1,9 +1,8 @@
 node_modules/
 dist/
-.env
-.env.local
 coverage/
 *.js.map
 *.tsbuildinfo
 
 # IDE
+config.bat
